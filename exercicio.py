@@ -12,3 +12,4 @@ except ValueError:
 
 else:
     print(f'Resultado da divisão:{divisao}')
+    
